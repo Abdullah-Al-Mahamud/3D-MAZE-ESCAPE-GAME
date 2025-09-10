@@ -42,7 +42,8 @@ python main.py
 
 ## Game Controls
 
-- **WASD** - Move player
+- **W'
+- W/A/S/D** - Move player
 - **Mouse** - Look around
 - **Left Click** - Shoot
 - **Right Click** - Toggle view mode
